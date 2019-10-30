@@ -8,37 +8,37 @@ We invite all those who participate in the RTC community to help us create safe 
 
 The following behaviors are expected of all community members:
 
--Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
 
--It’s OK to go “off topic” but please see the exceptions in the next section.
+- It’s OK to go “off topic” but please see the exceptions in the next section.
 
--Please keep cursing/swearing to a minimum.
+- Please keep cursing/swearing to a minimum.
 
--Refrain from demeaning, discriminatory, or harassing behavior and speech.
+- Refrain from demeaning, discriminatory, or harassing behavior and speech.
 
 ## 3. Unacceptable Behavior & Postings
 
 The following are unacceptable within the RTC community:
 
--Violence, threats of violence or violent language.
+- Violence, threats of violence or violent language.
 
--Discriminatory jokes and language.
+- Discriminatory jokes and language.
 
--Posting or displaying sexually explicit or violent material.
+- Posting or displaying sexually explicit or violent material.
 
--Political topics unrelated to tech.
+- Political topics unrelated to tech.
 
--Posting of religious topics.
+- Posting of religious topics.
 
--Posting or threatening to post other people’s personally identifying information ("doxing").
+- Posting or threatening to post other people’s personally identifying information ("doxing").
 
--Personal insults.
+- Personal insults.
 
--Unwelcome sexual attention. This includes sexualized comments or jokes.
+- Unwelcome sexual attention. This includes sexualized comments or jokes.
 
--Deliberate intimidation, stalking or following (online or in person).
+- Deliberate intimidation, stalking or following (online or in person).
 
--Advocating for, or encouraging, any of the above behavior.
+- Advocating for, or encouraging, any of the above behavior.
 
 ## 4. Consequences of Unacceptable Behavior
 
