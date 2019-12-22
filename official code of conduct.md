@@ -38,6 +38,8 @@ The following are unacceptable within the RTC community:
 
 - Deliberate intimidation, stalking or following (online or in person).
 
+- Spam.
+
 - Advocating for, or encouraging, any of the above behavior.
 
 ## 4. Consequences of Unacceptable Behavior
