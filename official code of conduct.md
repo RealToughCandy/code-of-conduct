@@ -40,7 +40,7 @@ The following are unacceptable within the RTC community:
 
 - Spam.
 
--Screen names and/or avatars that portray any of the above. 
+- Screen names and/or avatars that portray any of the above. 
 
 - Advocating for, or encouraging, any of the above behavior.
 
