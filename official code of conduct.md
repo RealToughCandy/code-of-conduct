@@ -16,6 +16,8 @@ The following behaviors are expected of all community members:
 
 - Refrain from demeaning, discriminatory, or harassing behavior and speech.
 
+- Members are encouraged to behave in a professional manner. If it could land you in a manager's office IRL, think twice before posting.
+
 ## 3. Unacceptable Behavior & Postings
 
 The following are unacceptable within the RTC community:
