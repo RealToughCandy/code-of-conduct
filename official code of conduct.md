@@ -22,7 +22,7 @@ The following are unacceptable within the RTC community:
 
 - Violence, threats of violence or violent language.
 
-- Discriminatory jokes and language.
+- Discriminatory jokes & language.
 
 - Posting or displaying sexually explicit or violent material.
 
@@ -34,13 +34,15 @@ The following are unacceptable within the RTC community:
 
 - Personal insults.
 
-- Unwelcome sexual attention. This includes sexualized comments or jokes.
+- Sexualized comments / jokes.
 
 - Deliberate intimidation, stalking or following (online or in person).
 
 - Spam.
 
 - Screen names and/or avatars that portray any of the above. 
+
+- Music posts that portray any of the above.
 
 - Advocating for, or encouraging, any of the above behavior.
 
@@ -55,3 +57,5 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 Candy -- (hidden here to prevent spam)
 
 Michael -– (hidden here to prevent spam)
+
+Sarah -- (hidden here to prevent spam)
