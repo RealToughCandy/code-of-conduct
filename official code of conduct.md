@@ -8,7 +8,7 @@ We invite all those who participate in the RTC community to help us create safe 
 
 The following behaviors are expected of all community members:
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+- Participate in an authentic and courteous way. In doing so, you contribute to the health and longevity of this community.
 
 - It’s OK to go “off topic” but please see the exceptions in the next section.
 
